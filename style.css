@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body {
+    height: 100vh;
+    background-color: #F7ECDE;
+}
+
+.header {
+    font-family: Pacifico;
+    font-weight: 500;
+    color: #352e28;
+    font-size: 60px;
+}
+
+
+.submitBtn button {
+    background-color: #BB4120;
+    width: 140px;
+    height: 34px;
+    border-radius: 5px;
+    
+}
